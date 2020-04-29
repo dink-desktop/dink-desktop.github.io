@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="nl-nl">
 	<head>
-	<title>hi</title>
+	<title></title>
 	</head>
 	<body>
 	</body>
